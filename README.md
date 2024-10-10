@@ -1,14 +1,14 @@
 # Ultaka Invasion
  Experimental content plugin for open source game Endless Sky
  
-# (IMPORTANT)PREREQUIRES:
+# (IMPORTANT) PREREQUIRES:
 Endless Sky version 0.9.15 (Continuous) or higher
 
 [Galactic War plugin](https://github.com/1010todd/Galactic-War)
 
-For most of the asset.
+For most of the assets.
 
-[Omnis plugin](https://github.com/Adde-Endless-Sky/-Omnis):
+[Omnis plugin](https://github.com/EndlessSkyCommunity/-Omnis):
 
 To trigger the invasion.
 
@@ -29,6 +29,6 @@ Others:
 Ultaka will attack everyone (If I'm aware of something, I'll add it to aggro list.)
 
 # About
-Ultaka Invasion (or lengthier its name Ultaka Invasion of Milky Way) is an experimental plugin where Milky Way is invaded by highly advanced alien, featuring mechanics for planet invasion and allowing player to retake planets and hire warships to defend it. No story planned beside small missions to make factions react to the invasion(mostly WIP).
+Ultaka Invasion (or its lengthier name Ultaka Invasion of Milky Way) is an experimental plugin where Milky Way is invaded by highly advanced aliens, featuring mechanics for planet invasion and allowing player to retake planets and hire warships to defend it. No story planned beside small missions to make factions react to the invasion (mostly WIP).
 
 Just for fun, not recommended for regular gameplay as multiple feature might break vanilla missions and the balance is very questionable.
